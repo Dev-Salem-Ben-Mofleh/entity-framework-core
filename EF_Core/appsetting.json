@@ -1,0 +1,4 @@
+{
+  "ConnectionString": "Server=.;Database=EfCore;Integrated Security=True;TrustServerCertificate=True;"
+
+}

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G.B\\source\\repos\\EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|c:\\users\\g.b\\source\\repos\\ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|c:\\users\\g.b\\source\\repos\\ef_core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|c:\\users\\g.b\\source\\repos\\ef_core\\ef_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|solutionrelative:ef_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|c:\\users\\g.b\\source\\repos\\ef_core\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50933AD-C1CE-4220-B963-7CDB567AC055}|EF_Core.csproj|solutionrelative:entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EF_Core.csproj",
+              "DocumentMoniker": "C:\\Users\\G.B\\source\\repos\\EF_Core\\EF_Core.csproj",
+              "RelativeDocumentMoniker": "EF_Core.csproj",
+              "ToolTip": "C:\\Users\\G.B\\source\\repos\\EF_Core\\EF_Core.csproj",
+              "RelativeToolTip": "EF_Core.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T14:48:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:39:14.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGACAAAAAAAAAAAAAPsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:57:58.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Entity\\Member.cs",
+              "RelativeDocumentMoniker": "Entity\\Member.cs",
+              "ToolTip": "C:\\Users\\G.B\\source\\repos\\EF_Core\\Entity\\Member.cs",
+              "RelativeToolTip": "Entity\\Member.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:25:30.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
